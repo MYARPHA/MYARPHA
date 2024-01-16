@@ -27,4 +27,6 @@
 
 ---
 ### 🤍: Social network
-
+VK: vk.com/nemyarpha
+Twitch: MYARPHA
+Inst: @Myarpha 
