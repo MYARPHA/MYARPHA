@@ -26,19 +26,6 @@
  <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"title="Phycharm" alt="Phycharm" width="40" height="40"/>&nbsp;
  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg"title="visual" alt="visual" width="40" height="40"/>&nbsp;
 </div>
-
----
-<h4>My favorite game</h4>
-
-- Cyberpunk 2077
-- Genshin Impact
-- Honkai: Star Rail
-- Red Dead Redemption 2
-- Devil May Cry 5
-- Sekiro Shadows Die Twice
-- The Witcher 3: Wild Hunt
-- Resident Evil 2 (remake)
-
 ---
 <h4>Social network</h4>
 
