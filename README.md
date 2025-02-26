@@ -1,10 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Lina Myarpha!</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alina Myarpha!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, digital artist from Russia</h3>
+<h3 align="center">MYRPHA</h3>
 
-- 🤍 I’m currently learning C++/C#/Phyton/HTML/CSS/PHP/SQL
-- 🤍 How to reach me alinamyrph89@gmail.com
-- 🤍 Russian, English (B2)
+- 🤍 ONLY MEOW MEOW
 
 ---
 
