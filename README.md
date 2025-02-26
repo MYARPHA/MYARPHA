@@ -10,20 +10,24 @@
 
 <h4>Languages</h4>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="Phyton" alt="Phyton" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/kotlin/kotlin-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
 ---
                                  
 <h4>Tools</h4>
 <div>
- <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"title="Phycharm" alt="Phycharm" width="40" height="40"/>&nbsp;
- <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg"title="visual" alt="visual" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg"title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+ <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"title="Phycharm" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;
+ <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>&nbsp; 
+
+  
+
   
 </div>
