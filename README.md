@@ -24,10 +24,6 @@
 <div>
  <img src="https://icon.icepanel.io/Technology/svg/PyCharm.svg"title="Phycharm" alt="Phycharm" width="40" height="40"/>&nbsp;
  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg"title="visual" alt="visual" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/intellij/intellij-original.svg"title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+  
 </div>
----
-<h4>Social network</h4>
-
-- VK: vk.com/nemyarpha
-- Twitch: MYARPHA
-- Inst: @Myarpha 
