@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">MYRPHA</h3>
 
-- 🤍 ONLY MEOW MEOW
+- 🤍 ONLY MEOW MEOW Я НЕ УМЕЮ ВЫХОДИТЬ ИЗ АККАУНТА НА ГИТХАБЕ
 
 ---
 
