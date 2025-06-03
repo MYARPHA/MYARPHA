@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alina Myarpha!</a> 
+<h1 align="center">Hi there, I'm А ЕЩЁ Я НЕ УМЕЮ ВЫХОДИТЬ ИЗ АККАУНТА НА ГИТХАБЕ <a href="https://daniilshat.ru/" target="_blank">Alina Myarpha!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">MYRPHA</h3>
 
-- 🤍 ONLY MEOW MEOW Я НЕ УМЕЮ ВЫХОДИТЬ ИЗ АККАУНТА НА ГИТХАБЕ
+- 🤍 ONLY MEOW MEOW
 
 ---
 
