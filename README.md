@@ -18,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
 </p>
-
 ---
 
 ### 🗄️ Databases
@@ -34,7 +33,6 @@
   <img src="https://img.icons8.com/color/48/000000/windows-11.png" width="50" height="50" alt="Windows 11"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
 </p>
-
 ---
 
 ### 🖥️ IDEs & Editors
@@ -46,7 +44,6 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50" height="50" alt="SSMS"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50" height="50" alt="MySQL Workbench"/>
 </p>
-
 
 ---
 
