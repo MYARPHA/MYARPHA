@@ -57,3 +57,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYARPHA&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
+
+## More Info
+
+<p align="center">
+  <img src="https://media.tenor.com/HtqnVrUcTecAAAAi/plink-cat-blink.gif" width="200" alt="Blinking Cat"/>
+</p>
+
+> "WTF???"  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MYARPHA&theme=radical" alt="GitHub Streak"/>
+</p>
+
+
