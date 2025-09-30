@@ -21,11 +21,9 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/sql-server.png" width="50" height="50" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/sqlite.png" width="50" height="50" alt="SQLite"/>
 </p>
-
-
 ---
 
 ### ⚙️ Tools & Platforms
