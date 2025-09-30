@@ -38,7 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/000000/resharper.png" width="50" height="50" alt="ReSharper"/>
+  <img src="https://img.icons8.com/fluency/48/000000/sql-server-management-studio.png" width="50" height="50" alt="MSSQL Management Studio"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-workbench.png" width="50" height="50" alt="MySQL Workbench"/>
 </p>
+
 
 ---
 
